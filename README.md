@@ -1,1 +1,1 @@
-My second readme
+Some text for this readme
